@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshat1sharma321&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akshat1sharma321&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophies" />
 </p>
 
 ---
@@ -92,16 +92,16 @@ const akshat = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshat1sharma321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Akshat's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat1sharma321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshat1sharma321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&border_color=30363D" alt="Akshat's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat1sharma321&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&langs_count=8&border_color=30363D" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat1sharma321&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat1sharma321&theme=tokyonight&hide_border=false&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border=30363D" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat1sharma321&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat1sharma321&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=false&border_color=30363D" alt="Contribution Graph" />
 </div>
 
 ---
@@ -128,8 +128,7 @@ const akshat = {
   
 ### 🎵 Now Playing
 
-[![Spotify](https://novatorem-omega-ruby.vercel.app/api/spotify)](https://open.spotify.com/user/31marxnk3crimeubstcstcj2d23q?si=852f0d1ad7ce46a6)
-
+[![Spotify](https://novatorem-omega-ruby.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 *Connect your Spotify to show what you're listening to!*
 
