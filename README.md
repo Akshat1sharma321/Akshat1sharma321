@@ -14,31 +14,19 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshat1sharma321&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophies" />
-</p>
+
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshat1sharma321&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies" />
+</p> -->
 
 ---
 
 ## 🚀 About Me
 
-```javascript
-const akshat = {
-    location: "India 🇮🇳",
-    currentFocus: "Building scalable MERN applications",
-    learning: ["Backend Architecture", "DevOps", "System Design", "DSA"],
-    lookingFor: "Open source collaborations",
-    askMeAbout: ["React", "Node.js", "Web Development", "Data Structures"],
-    funFact: "I debug with console.log and I'm proud of it! 😄",
-    portfolio: "https://portfolio-three-ashen-14.vercel.app/"
-};
-```
-
-<details>
-<summary>📫 <b>Want to know more?</b></summary>
-<br>
+<!-- <details>
+<summary>📫 <b>Want to know more?</b></summary> -->
+<!-- <br> -->
 
 - 🔭 Currently building **MERN Stack projects** with scalable architecture
 - 🌱 Diving deep into **Backend Development, DevOps & Competitive Programming**
@@ -47,7 +35,7 @@ const akshat = {
 - 💼 Portfolio: **[akshat-sharma.dev](https://portfolio-three-ashen-14.vercel.app/)**
 - 📧 Email: **akshatsharma5901@gmail.com**
 
-</details>
+<!-- </details> -->
 
 ---
 
@@ -65,6 +53,9 @@ const akshat = {
   </a>
   <a href="https://leetcode.com/u/Akshat0408/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://open.spotify.com/user/31marxnk3crimeubstcstcj2d23q" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
 </p>
 
@@ -91,17 +82,21 @@ const akshat = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshat1sharma321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&border_color=30363D" alt="Akshat's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat1sharma321&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&langs_count=8&border_color=30363D" alt="Most Used Languages" />
-</div>
+<!-- <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshat1sharma321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Akshat's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat1sharma321&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" alt="Most Used Languages" />
+</div> -->
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat1sharma321&theme=tokyonight&hide_border=false&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border=30363D" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=akshat1sharma321&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak Stats" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat1sharma321&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=false&border_color=30363D" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat1sharma321&theme=tokyo-night&hide_border=false&border_radius=10" alt="Contribution Graph" />
 </div>
 
 ---
@@ -126,11 +121,9 @@ const akshat = {
 
 <div align="center">
   
-### 🎵 Now Playing
+### 🎵 Now Playing on Spotify
 
-[![Spotify](https://novatorem-omega-ruby.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-*Connect your Spotify to show what you're listening to!*
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31marxnk3crimeubstcstcj2d23q&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
